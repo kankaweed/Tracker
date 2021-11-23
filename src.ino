@@ -1,4 +1,8 @@
-/* 
+/*
+* realizado por :
+* César Augusto de Andrade Pinto 
+*/
+/*
  *  DHT11
  *  https://create.arduino.cc/projecthub/arcaegecengiz/using-dht11-b0f365
 */
